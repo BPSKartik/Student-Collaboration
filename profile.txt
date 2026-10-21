@@ -1,0 +1,9 @@
+Name: Kartik Chaturvedi
+Programme: BCA (Artificial Intelligence), 1st year
+University: Bennett University
+
+About me:
+I am a first-year BCA (AI) student. I enjoy building small web apps and
+tools, and I am learning C, Python and how teams work together on GitHub.
+This repository is my Git and GitHub collaboration practical: a feature
+branch, a pull request, a code review and a merge.
